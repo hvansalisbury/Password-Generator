@@ -32,12 +32,12 @@ You will then be reminded of your selections and the password will be generated 
 
 ## Screenshots
 
-![Site](Assets\images\screenshot-1.png)
-![Length-Prompt](Assets\images\screenshot-2.png)
-![Uppercase](Assets\images\screenshot-3.png)
-![Lowercase](Assets\images\screenshot-4.png)
-![Numbers](Assets\images\screenshot-5.png)
-![Special-Characters](Assets\images\screenshot-6.png)
+![Site](assets/images/screenshot-1.png)
+![Length-Prompt](assets/images/screenshot-2.png)
+![Uppercase](assets/images/screenshot-3.png)
+![Lowercase](assets/images/screenshot-4.png)
+![Numbers](assets/images/screenshot-5.png)
+![Special-Characters](assets/images/screenshot-6.png)
 
 ## Credits
 
