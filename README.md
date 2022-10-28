@@ -17,7 +17,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Project-Links
 
- - [Password_Generator](https://hvansalisbury.github.io/password-generator/)
+ - [Password_Generator](https://hvansalisbury.github.io/Password-Generator/)
  - [Github-Repository](https://github.com/hvansalisbury/Password-Generator/)
 
 ## Usage
