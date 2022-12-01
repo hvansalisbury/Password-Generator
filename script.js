@@ -23,28 +23,22 @@ function initiate() {
     if (userUpper) {
       charChoices = charChoices.concat(upper);
       msg = msg + '\nUppercase Letters';
-      console.log(charChoices)
     }
     var userLower = confirm("Would you like to include Lowercase Letters?");
     if (userLower) {
       charChoices = charChoices.concat(lower);
       msg = msg + '\nLowercase Letters';
-      console.log(charChoices)
     }
     var userNumber = confirm("Would you like to include Numbers?");
     if (userNumber) {
       charChoices = charChoices.concat(num);
       msg = msg + '\nNumbers';
-      console.log(charChoices)
     }
     var userSpecial = confirm("Would you like to include Special Characters?");
     if (userSpecial) {
       charChoices = charChoices.concat(special);
       msg = msg + '\nSpecial Characters';
-      console.log(charChoices)
     }
-
-    console.log(charChoices);
 
     if (charChoices.length === 0) {
       alert('You did not choose any characters. Try again.');
@@ -52,10 +46,8 @@ function initiate() {
     } else {
       alert(msg);
     }
-    console.log(password)
     for (var i = 0; i < userLength; i++) {
       password = password + charChoices[Math.floor(Math.random() * charChoices.length)];
-      console.log(password);
     }
 
     txtArea.textContent = password;
@@ -63,5 +55,5 @@ function initiate() {
 }
 
 genBtn.addEventListener("click", function (event) {
-  initiate();
+  genPwd();
 });
