@@ -4,9 +4,7 @@
 
 This is a random password generator. The passwords are required to be at least 8 characters long and at most 128 characters long. The user will select the length of the password and what characters to include from Uppercase letters, Lowercase letters, Numbers, and Special characters. This is helpful to create a secure password that could be used permanently or temporarily if desired.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Project-Links](#Project-Links)
 - [Usage](#Usage)
